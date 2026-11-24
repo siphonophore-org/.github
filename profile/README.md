@@ -2,7 +2,7 @@
 
 ## What is Siphonophore?
 
-Siphonophore is a collection of purpose-built plugins that extend Jellyfin administration. Each plugin runs entirely inside Jellyfin with no external applications or dependencies to install, host or keep running beside it.
+Siphonophore is a collection of purpose-built plugins that extend Jellyfin administration. Each plugin runs entirely inside Jellyfin with no external applications or dependencies to install, host or keep running beside it. The aim of these plugins is to make common administrative tasks more user friendly and lower the barrier to entry for new Jellyfin users.
 
 ## Why Siphonophore?
 
