@@ -6,9 +6,9 @@ Siphonophore is a collection of purpose-built plugins that extend Jellyfin admin
 
 ## Why Siphonophore?
 
-A [siphonophore](https://en.wikipedia.org/wiki/Siphonophore) is a colony of small animals that lives and moves as one. Each member is a [zooid](https://en.wikipedia.org/wiki/Zooid) with a single job. The [nectophores](https://en.wikipedia.org/wiki/Nectophore) are the swimming bells that move the colony, and every member grows from the [stolon](https://en.wikipedia.org/wiki/Stolon), the stem that joins them all.
+A [siphonophore](https://en.wikipedia.org/wiki/Siphonophore) is a colony of small animals that lives and moves as one. Each member is a [zooid](https://en.wikipedia.org/wiki/Zooid) with a single job. The [nectophores](https://en.wikipedia.org/wiki/Nectophore) are the swimming bells that move the colony, and every member grows from the [stolon](https://en.wikipedia.org/wiki/Stolon), the stem that joins them all. 
 
-The plugins follow the same idea. Each one does its own job, and they all grow from one shared foundation.
+The most common example is a [Portuguese Man O' War](https://en.wikipedia.org/wiki/Portuguese_man_o%27_war) which resembles a Jellyfish but is actually a series of interconnected, unique organisms working together. Each one is a different independent component that is part of the larger colony. The idea of these plugins is to act similarly, where Jellyfin is the core and all these plugins depend on and extend Jellyfin into a more robust program. The goal is to handle Jellyfin adjacent functionality directly inside of Jellyfin rather than requiring users get a different external program for each task. 
 
 ## Projects
 
