@@ -12,13 +12,7 @@ The plugins follow the same idea. Each one does its own job, and they all grow f
 
 ## Projects
 
-<p>
-  <a href="https://github.com/siphonophore-org/necto"><img src="https://raw.githubusercontent.com/siphonophore-org/siphonophore/main/brand/necto/card.svg" alt="Necto: Tools to keep your Jellyfin server reachable, secure and healthy." width="49%"></a>
-  <a href="https://github.com/siphonophore-org/zooid"><img src="https://raw.githubusercontent.com/siphonophore-org/siphonophore/main/brand/zooid/card.svg" alt="Zooid: Keeps your whole collection of Jellyfin servers in sync with one another." width="49%"></a>
-</p>
-<p>
-  <a href="https://github.com/siphonophore-org/stolon"><img src="https://raw.githubusercontent.com/siphonophore-org/siphonophore/main/brand/stolon/card.svg" alt="Stolon: Shared components and services for Siphonophore's Jellyfin plugins." width="98.5%"></a>
-</p>
+<p><a href="https://github.com/siphonophore-org/necto"><img src="https://raw.githubusercontent.com/siphonophore-org/siphonophore/main/brand/necto/card.svg" alt="Necto: Tools to keep your Jellyfin server reachable, secure and healthy." width="50%" align="top"></a><a href="https://github.com/siphonophore-org/zooid"><img src="https://raw.githubusercontent.com/siphonophore-org/siphonophore/main/brand/zooid/card.svg" alt="Zooid: Keeps your whole collection of Jellyfin servers in sync with one another." width="50%" align="top"></a><a href="https://github.com/siphonophore-org/stolon"><img src="https://raw.githubusercontent.com/siphonophore-org/siphonophore/main/brand/stolon/card.svg" alt="Stolon: Shared components and services for Siphonophore's Jellyfin plugins." width="100%" align="top"></a></p>
 
 ## Installing
 
