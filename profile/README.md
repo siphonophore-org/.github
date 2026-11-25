@@ -19,7 +19,7 @@ The most common example is a [Portuguese Man O' War](https://en.wikipedia.org/wi
 Add this repository in Jellyfin under **Dashboard > Plugins > Repositories**:
 
 ```
-https://raw.githubusercontent.com/siphonophore-org/siphonophore/main/manifest.json
+https://repo.siphonophore.org
 ```
 
 See [siphonophore](https://github.com/siphonophore-org/siphonophore) for the unstable channel and the full steps.
